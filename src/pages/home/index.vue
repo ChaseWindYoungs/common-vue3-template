@@ -4,7 +4,7 @@
     
     <div class="content">
       <p >Welcome to</p>
-      <h3><%= name %> project</h3>
+      <h3>common-vue3-template project</h3>
       <p>It created by <a :href="href" target="_blank">tobe-cli</a></p>
     </div>
   </div>

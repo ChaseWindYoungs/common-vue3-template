@@ -1,5 +1,5 @@
 {
-  "name": "<%= name %>",
+  "name": "common-vue3-template",
   "version": "0.0.1",
   "type": "module",
   "scripts": {
